@@ -1,0 +1,20 @@
+.store-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.store-container h4 {
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.products-container {
+    margin: 29px 50px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 45px;
+}
+.cart-container {
+    background: #ffe0b3;
+}

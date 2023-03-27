@@ -1,0 +1,15 @@
+.header-body {
+    margin: 0;
+    background-color: #1c2b35;
+    height: 80px;
+    padding-left: 100px;
+    padding-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-component a {
+    text-decoration: none;
+    margin-left: 30px;
+    color: white;
+}
